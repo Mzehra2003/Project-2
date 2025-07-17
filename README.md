@@ -1,10 +1,10 @@
 **Project Overview:**
 
-This project focusses on how KPI correlations can be misleading in some dashboards regarding product performance, therefore KPI misaligments and conflicts can pose a risk while evaluating customer loyalty and making strategic decisions regarding which demographics to target. The dataset used is "FinTech Customer Lifetime Value (LTV) Dataset” (7,000+ records) downloaded from Kaggle.
+This project focusses on how KPI correlations can be misleading in some dashboards regarding product performance, therefore KPI misaligments and conflicts can pose a risk while evaluating customer loyalty and making strategic decisions regarding which demographics to target. The dataset used is "FinTech Customer Lifetime Value (LTV) Dataset” (7,000+ records) downloaded from Kaggle. The project is under progress, with detailed descriptions added below to explain the project's focus. There is also an initial draft of the project writeup added, which is yet to be cited and developed into a full literature review using real world business use cases. The appendices section is already added to showcase the results from the code blocks. 
 
-**What the code does:**
+**Development:**
 
-This was done without iterative drafts since I had already covered the core Statistics concepts used in this project, instead the code was broken down into five separate scripts with explanations behind each code block included within the codes as well as as elaborate explanations given below, for learning and project tracking purposes: 
+This was done without iterative drafts since I had already covered the core Statistics concepts used in this project, instead the code was broken down into five separate scripts with explanations behind each code block included within the codes as well as as elaborate explanations given below, for learning and project tracking purposes. There is a sixth file currently under development, including a PCA code to simplify the data and reduce noise to uncover the most crucial KPI drivers: 
 
 **File 1:** For the first code file, I added a data cleaning code for revision purposes despite the data being in a cleaned format, with a detailed breakdown of all steps included in the first code file.
 
